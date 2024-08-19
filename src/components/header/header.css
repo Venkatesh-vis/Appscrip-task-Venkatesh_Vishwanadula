@@ -1,0 +1,32 @@
+.lor{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+
+}
+.lorem {
+    display: flex;
+    color: #923042;
+}
+.lorem img {
+    margin-top: 20px;
+}
+.sec{
+    /* margin-left: 40px;
+    margin-right: 40px; */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.txt{
+    text-align: center;
+}
+.hfhr{
+    margin-left: 100px;
+    margin-right: 100px;
+}

@@ -1,0 +1,38 @@
+
+.par{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+.mhead{
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+}
+.cat{
+    margin-top: -30px;
+}
+.mm{
+    display: flex;
+    gap: 30px;
+}
+.items{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 2px;
+}
+.item {
+    width: 200px;
+    font-size: 10px;
+    cursor: pointer;
+}
+.item img {
+    width: 100%;
+}
+.item p {
+    font-weight: bold;
+}
+.item .hrt {
+    width: 13px;
+}

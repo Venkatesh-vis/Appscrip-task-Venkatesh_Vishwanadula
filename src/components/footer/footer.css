@@ -1,0 +1,48 @@
+.mn{
+    background-color: black;
+}
+.top{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    color: white;
+    margin-bottom: 30px;
+}
+hr{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.bottom{
+    color: white;
+    flex-wrap: wrap;
+}
+button{
+    background-color: rgb(61, 57, 57);
+    height: 35px;
+    color: rgb(153, 147, 147);
+    border-radius: 5px;
+    display: inline-block;
+}
+input{
+    height: 30px;
+    width: 80%;
+    display: inline-block;
+    margin-right: 10px;
+}
+.btm{
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+mn p{
+    text-align: center;
+    background-color: black;
+}
+.copy{
+    color: white;
+    text-align: center;
+    border: none;
+}
