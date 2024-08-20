@@ -32,35 +32,35 @@ const Main = () => {
               </div>
               <div className="cat">
                 <h6>IDEAL FOR</h6>
-                <p style={{ marginTop: "-20px", fontSize: "10px" }}>ALL</p>
+                <p className='opt'>ALL</p>
               </div>
               <div className="cat">
                 <h6>OCCASION</h6>
-                <p style={{ marginTop: "-20px", fontSize: "10px" }}>ALL</p>
+                <p className='opt'>ALL</p>
               </div>
               <div className="cat">
                 <h6>WORK</h6>
-                <p style={{ marginTop: "-20px", fontSize: "10px" }}>ALL</p>
+                <p className='opt'>ALL</p>
               </div>
               <div className="cat">
                 <h6>FABRIC</h6>
-                <p style={{ marginTop: "-20px", fontSize: "10px" }}>ALL</p>
+                <p className='opt'>ALL</p>
               </div>
               <div className="cat">
                 <h6>SEGMENT</h6>
-                <p style={{ marginTop: "-20px", fontSize: "10px" }}>ALL</p>
+                <p className='opt'>ALL</p>
               </div>
               <div className="cat">
                 <h6>SUITABLE FOR</h6>
-                <p style={{ marginTop: "-20px", fontSize: "10px" }}>ALL</p>
+                <p className='opt'>ALL</p>
               </div>
               <div className="cat">
                 <h6>RAW MATERIALS</h6>
-                <p style={{ marginTop: "-20px", fontSize: "10px" }}>ALL</p>
+                <p className='opt'>ALL</p>
               </div>
               <div className="cat">
                 <h6>PATTERN</h6>
-                <p style={{ marginTop: "-20px", fontSize: "10px" }}>ALL</p>
+                <p className='opt'>ALL</p>
               </div>
             </div>
           )}

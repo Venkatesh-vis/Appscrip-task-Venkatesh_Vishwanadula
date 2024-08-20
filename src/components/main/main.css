@@ -27,6 +27,10 @@
     font-size: 10px;
     cursor: pointer;
 }
+.opt{
+   margin-top: -20px; 
+   font-size: 10px;
+}
 .item img {
     width: 100%;
 }
